@@ -40,16 +40,16 @@ ITDA MindCare adalah aplikasi Android yang dirancang untuk membantu pengguna mel
 
 ## Screenshot (Placeholder)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/31a9e7ac-dc81-4c7b-b6a9-49231cf493f3" width="100">
-  <img src="https://github.com/user-attachments/assets/379c823e-a4ac-4a18-926b-b00ec75147fc" width="100">
-  <img src="https://github.com/user-attachments/assets/bbe29b6d-4af9-42bb-bdb8-b794c52747cb" width="100">
-  <img src="https://github.com/user-attachments/assets/5ac93745-e85c-4a19-8c0b-f7fdc7a2660d" width="100">
+  <img src="https://github.com/user-attachments/assets/690e955b-5bde-4256-9de7-2a75290ccfe8" width="100">
+  <img src="https://github.com/user-attachments/assets/7e2c0118-7a9f-4540-8017-4d17a1faf5dc" width="100">
+  <img src="https://github.com/user-attachments/assets/87fc3a95-95df-4a73-ac45-4c5ba4dde4b7" width="100">
+  <img src="https://github.com/user-attachments/assets/35406151-0502-42a2-b65f-bde97f0003b2" width="100">
 </p>
 <p align="center">
   <em>Contoh: Halaman Login, Halaman Beranda, Gameplay.</em>
 </p>
 
-*   *Contoh: Halaman Login, Halaman Beranda, Gameplay, Halaman Riwayat, Halaman Profil.*
+*   *Contoh: Halaman Login, Halaman Beranda, Gameplay.*
 
 ## Teknologi yang Digunakan
 *   **Bahasa Pemrograman:** Kotlin
